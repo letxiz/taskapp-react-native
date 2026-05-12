@@ -83,19 +83,19 @@ npm run web
 
 As imagens do app estão na pasta assets:
 
-### Welcome Screen
+<h3 align="center">Welcome Screen</h3>
 
 <p align="center">
   <img src="./assets/Welcome.jpeg" alt="Welcome Screen" width="230" />
 </p>
 
-### Home Screen
+<h3 align="center">Home Screen</h3>
 
 <p align="center">
   <img src="./assets/HomeScreen.jpeg" alt="Home Screen" width="230" />
 </p>
 
-### New Task Screen
+<h3 align="center">New Task Screen</h3>
 
 <p align="center">
   <img src="./assets/NewTask.jpeg" alt="New Task Screen" width="230" />
