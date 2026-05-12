@@ -85,15 +85,15 @@ As imagens do app estão na pasta assets:
 
 ### Welcome Screen
 
-![Welcome Screen](./assets/Welcome.jpeg)
+<img src="./assets/Welcome.jpeg" alt="Welcome Screen" width="260" />
 
 ### Home Screen
 
-![Home Screen](./assets/HomeScreen.jpeg)
+<img src="./assets/HomeScreen.jpeg" alt="Home Screen" width="260" />
 
 ### New Task Screen
 
-![New Task Screen](./assets/NewTask.jpeg)
+<img src="./assets/NewTask.jpeg" alt="New Task Screen" width="260" />
 
 ## Armazenamento local
 
